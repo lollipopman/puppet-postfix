@@ -13,8 +13,8 @@ fixtures:
       ref: "8.1.0"
   repositories:
     augeasproviders_core:
-      repo: "https://github.com/hercules-team/augeasproviders_core.git"
-      ref: "2.7.0"
+      repo: "https://github.com/voxpupuli/puppet-augeasproviders_core.git"
+      ref: "v3.2.0"
     facts: "https://github.com/puppetlabs/puppetlabs-facts.git"
     provision: "https://github.com/puppetlabs/provision.git"
     puppet_agent: "https://github.com/puppetlabs/puppetlabs-puppet_agent.git"
